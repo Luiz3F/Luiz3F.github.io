@@ -1,5 +1,5 @@
 ---
-title: "Proposta de TCC - Avaliação do Desempenho de LLMs na Geração de Regras de Firewall"
+title: "TCC - Avaliação do Desempenho de LLMs na Geração de Regras de Firewall"
 date: 2026-04-14 15:44:00 +/-0300
 categories: [TCC, network security, LLM]
 description: "Proposta inicial do meu Trabalho de Conclusão de Curso."
