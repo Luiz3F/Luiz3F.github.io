@@ -7,7 +7,7 @@ tags: [linux, kernel, kernel-linux, setup, qemu, vm]
 
 ## A breather
 
-Unlike the previous ones, this [tutorial](flusp.ime.usp.br/kernel/char-drivers-intro/) is much more expository, leaving less room to make day-consuming mistakes.
+Unlike the previous ones, this [tutorial](https://flusp.ime.usp.br/kernel/char-drivers-intro/) is much more expository, leaving less room to make day-consuming mistakes.
 
 ## Character device driver? I hardly know'er!
 
