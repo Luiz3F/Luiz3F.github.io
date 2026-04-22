@@ -1,5 +1,5 @@
 ---
-title: First contribution to the Linux kernel
+title: My first contribution to the Linux kernel
 date: 2026-04-21 22:32:30 +/- 0300
 categories: [Open Source Software Development, Linux Kernel, MAC0470]
 tags: [linux, kernel, kernel-linux, setup, qemu, vm]
