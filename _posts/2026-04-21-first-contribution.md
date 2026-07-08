@@ -17,6 +17,6 @@ Both of these cases are very similar, so the solutions were also very similar. F
 ```
 (for this to work, we had to get rid of the `static` keyword from the `jpeg_v2_0_process_interrupt` declaration). For the `v5_0_0` and `v5_3_0` duplication, the fix was basically the same, we just had to include `jpeg_v5_0_0.h` in `jpeg_v5_3_0.c` since it wasn't already there.
 
-## Will it be accepted?
+## Response from the maintainers
 
-We've send the patch to the AMD DRM mailing list and are waiting for their response.
+We sent the patch to the maintainers and their response was that, since the `_process_interrupt` functions are only used as a pointer in another part of the file, we could simply directly use a pointer to the earlier version of `_process_interrupt`. We did these changes and are waiting for their response.
